@@ -1,21 +1,21 @@
 # Hi there 👋 I'm Puneet Kumar Deshiya  
 
-🚀 **DevOps Engineer | 8+ years of experience | Cloud & Automation Enthusiast**  
+ **DevOps Engineer | 8+ years of experience | Cloud & Automation Enthusiast**  
 
-🔧 I specialize in **Cloud Infrastructure, DevOps, CI/CD, Kubernetes, Docker, and Automation**.  
-💡 Passionate about solving problems with **Infrastructure as Code (IaC)** and improving system reliability.  
-📍 Based in **Vadodara, Gujarat, India**.  
+ I specialize in **Cloud Infrastructure, DevOps, CI/CD, Kubernetes, Docker, and Automation**.  
+ Passionate about solving problems with **Infrastructure as Code (IaC)** and improving system reliability.  
+ Based in **Vadodara, Gujarat, India**.  
 
 ---
 
-## 🌐 Connect with Me  
+##  Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/puneet-kumar-deshiya-64907677)  
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneetdeshiya1993@gmail.com)  
 
 
 ---
 
-## ⚡ Technologies & Tools I Work With  
+##⚡ Technologies & Tools I Work With  
 
 ### ☁️ Cloud & Infrastructure  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
