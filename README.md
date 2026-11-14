@@ -1,132 +1,158 @@
 
-# Puneet Kumar Deshiya
+<h1 align="center">Hi 👋, I'm Puneet Kumar Deshiya</h1>
 
-### DevOps Engineer | Cloud Infrastructure | CI/CD | Kubernetes | Automation
+<h3 align="center">
+  DevOps Engineer | AWS & Azure | Kubernetes | CI/CD | Cloud Automation
+</h3>
 
-Building scalable, secure, and reliable cloud infrastructure through automation and modern DevOps practices.
-
-With **8+ years of professional experience**, I specialize in Cloud Infrastructure, DevOps Engineering, CI/CD automation, container orchestration, and Infrastructure as Code (IaC).
-
-I enjoy solving complex infrastructure challenges, optimizing deployment workflows, and building highly available systems.
-
-**Location:** Vadodara, Gujarat, India
-
----
-
-## PROFESSIONAL SUMMARY
-
-- 8+ years of experience in IT Infrastructure and DevOps Engineering.
-- Cloud infrastructure management using AWS and Microsoft Azure.
-- CI/CD pipeline development and deployment automation.
-- Containerization and orchestration using Docker and Kubernetes.
-- Infrastructure provisioning using Terraform.
-- Configuration management and automation using Ansible.
-- GitOps-based deployment workflows using Argo CD.
-- Linux administration, scripting, troubleshooting, and system optimization.
-
----
-
-## TECHNICAL SKILLS
-
-### Cloud Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+8%2B+Years+Experience;AWS+%7C+Azure+%7C+Cloud+Infrastructure;Docker+%7C+Kubernetes+%7C+Terraform;Jenkins+%7C+ArgoCD+%7C+CI%2FCD+Automation;Building+Scalable+%26+Reliable+Cloud+Solutions" alt="Typing SVG" />
 </p>
 
-### DevOps & CI/CD
-
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### Containers & Orchestration
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-
-### Infrastructure as Code & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
-
-### Programming & Scripting
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=puneetdeshiya&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/puneetdeshiya?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
 ---
 
-## CORE EXPERTISE
+## 👨‍💻 About Me
 
-| Area | Technologies & Skills |
+I'm a **DevOps Engineer with 8+ years of professional experience**, specializing in Cloud Infrastructure, DevOps Automation, CI/CD, Containerization, and Infrastructure as Code.
+
+I focus on building scalable cloud environments, automating deployment workflows, improving infrastructure reliability, and implementing modern DevOps practices.
+
+- 💼 **Experience:** 8+ Years in IT & DevOps Engineering
+- ☁️ **Cloud Platforms:** AWS & Microsoft Azure
+- 🔄 **CI/CD:** Jenkins, GitHub, Argo CD
+- 🐳 **Containers:** Docker & Kubernetes
+- 🏗️ **Infrastructure as Code:** Terraform
+- ⚙️ **Configuration Management:** Ansible
+- 🐧 **Operating Systems:** Linux
+- 💻 **Scripting:** Python & Bash
+- 📍 **Location:** Vadodara, Gujarat, India
+
+---
+
+## 🛠️ Technical Skills & Technologies
+
+### ☁️ Cloud Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure" alt="Cloud Technologies" />
+</p>
+
+### 🚀 DevOps & CI/CD Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,github,githubactions,argo" alt="DevOps Technologies" />
+</p>
+
+### 💻 Programming & Scripting
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux" alt="Programming and Scripting" />
+</p>
+
+### 📊 Monitoring & Observability
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring Tools" />
+</p>
+
+---
+
+## ⚡ Core Areas of Expertise
+
+| Domain | Skills & Technologies |
 |---|---|
-| Cloud Computing | AWS, Microsoft Azure |
-| CI/CD Automation | Jenkins, Git, GitHub |
+| Cloud Infrastructure | AWS, Microsoft Azure |
+| CI/CD Automation | Jenkins, GitHub Actions |
 | Containerization | Docker |
-| Orchestration | Kubernetes |
+| Container Orchestration | Kubernetes, EKS |
 | Infrastructure as Code | Terraform |
 | Configuration Management | Ansible |
 | GitOps | Argo CD |
 | Operating Systems | Linux |
-| Scripting | Python, Bash |
-| Infrastructure Operations | Deployment, Monitoring, Troubleshooting |
+| Scripting & Automation | Python, Bash |
+| Monitoring | Prometheus, Grafana |
+| Cloud Security | IAM, Security Groups, Infrastructure Best Practices |
+| Deployment Strategies | Rolling, Blue-Green, Canary Deployments |
 
 ---
 
-## GITHUB STATISTICS
+## 🚀 DevOps Engineering Projects
+
+Here are some of the areas I work with and explore through practical implementations.
+
+| Project | Description | Technologies |
+|---|---|---|
+| AWS Cloud Infrastructure | Infrastructure provisioning and automation | AWS, Terraform |
+| CI/CD Automation | Automated build, test and deployment pipelines | Jenkins, GitHub |
+| Kubernetes Deployment | Container orchestration and application deployment | Docker, Kubernetes, EKS |
+| GitOps Implementation | Declarative application deployment | Argo CD, Kubernetes |
+| Infrastructure Automation | Automated server configuration and provisioning | Ansible, Terraform |
+| Monitoring & Observability | Infrastructure and application monitoring | Prometheus, Grafana |
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puneetdeshiya&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetdeshiya&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=puneetdeshiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetdeshiya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=puneetdeshiya&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=puneetdeshiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## CONTRIBUTION ACTIVITY
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetdeshiya&theme=github-compact&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetdeshiya&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
-## CONNECT WITH ME
+## 🏆 GitHub Achievements
 
-<p align="left">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=puneetdeshiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://linkedin.com/in/puneet-kumar-deshiya-64907677" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/puneetdeshiya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:puneetdeshiya1993@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
-
-## ENGINEERING PHILOSOPHY
-
-> Automate everything. Simplify complexity. Build reliable systems.
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=puneetdeshiya&label=PROFILE%20VIEWS&color=0A66C2&style=flat-square" alt="Profile Views" />
+  📧 <b>Email:</b> puneetdeshiya1993@gmail.com
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my GitHub profile!</b>
+  📍 <b>Vadodara, Gujarat, India</b>
+</p>
+
+---
+
+<h3 align="center">
+  💡 Automate Everything. Simplify Complexity. Build Reliable Systems.
+</h3>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile! Let's build something amazing together.</i>
 </p>
